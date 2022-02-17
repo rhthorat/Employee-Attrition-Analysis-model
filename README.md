@@ -1,0 +1,2 @@
+# Employee-Attrition-Analysis-model
+Developed Predictive Regression Model (85% accuracy) using R and Azure, that analyzed a company’s employee attrition factors to improve the retention rate, job satisfaction and helped take preventive hiring measures. Created an interactive dashboard using tableau to present the impact of factors affecting the attrition. Recommended solutions to prevent voluntary attrition using association rules.
